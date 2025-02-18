@@ -30,7 +30,7 @@ Follow these steps to install the tool on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sysjaykumar/ProjectManagementTools.git
+   https://github.com/sysjaykumar/CodeAlpha_ProjectManagementTools.git
    cd project-management-tool
 
 Install dependencies:
